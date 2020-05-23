@@ -1,0 +1,12 @@
+{
+  "name": "ripple-paper-wallet",
+  "version": "1.0.0",
+  "description": "Ripple Paper Wallet",
+  "private": false,
+  "dependencies": {
+    "ripple-lib": "*"
+  },
+  "devDependencies": {
+    "eslint": "*"
+  }
+}
